@@ -30,4 +30,4 @@ apt-get install screen
 
 screen
 
-minerd -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45560 -u brunojustin@gmail.com -p x﻿
+minerd -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45550 -u brunojustin@gmail.com -p x﻿
