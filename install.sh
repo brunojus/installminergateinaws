@@ -1,7 +1,5 @@
 #!/bin/bash
 
-sudo su
-
 apt-get update
 
 apt-get install libcurl4-openssl-dev git
