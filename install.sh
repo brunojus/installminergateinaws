@@ -6,17 +6,11 @@ apt-get update
 
 apt-get install libcurl4-openssl-dev git
 
-apt-get install build-essential
+apt-get install build-essential -y
 
-Y
+apt-get install autotools-dev autoconf -y
 
-apt-get install autotools-dev autoconf
-
-Y
-
-apt-get install libcurl3 libcurl4-gnutls-dev
-
-Y
+apt-get install libcurl3 libcurl4-gnutls-dev -y
 
 mkdir /download
 
